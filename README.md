@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+the application of software principles, methods and tools to develop and maintain high quality software systems. it is important because it enables the creation of software applications that power aspects of modern life which include areas of research, communication and the healthcare
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 Structured Programming: Introduced practices for organizing code with clear control flow structures, such as loops and conditionals, enhancing readability and maintainability. This 
@@ -22,7 +22,6 @@ Design: Create system architecture, design user interfaces, and outline data str
 Implementation (Coding): Write and develop the actual code based on design specifications, and perform initial unit testing to ensure functionality.
 Testing: Evaluate the software through various testing methods (unit, integration, system, and acceptance) to identify and fix bugs and ensure it meets requirements.
 Deployment: Release the software to users, including installation and configuration, and provide necessary documentation and training.
-
 Maintenance: Perform ongoing support and updates to address bugs, add new features, and ensure the software remains functional and relevant over time.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
@@ -46,6 +45,13 @@ In software quality assurance, different types of testing play crucial roles in 
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is about creating the right questions or instructions to give to AI models to get the best answers. It’s important because how you phrase your question can affect how well the AI understands and responds. By carefully designing prompts, you can help the AI give you more accurate and useful answers, making interactions with the AI more effective and helpful.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt: "Tell me about apples."
+
+Improved Prompt: "Explain how and where apples grow and include different varieties of apples."
+it is improved because it asks about the spicifics relating to apples like where do they grow, how do they grow and as well as requesting for the lists of varieties of apples which will be further prompted if i am interested.
+
+
+
